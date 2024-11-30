@@ -1,4 +1,4 @@
-# SendMe
+# SendMe (under development)
 
 SendMe is a robust, cross-platform file-sharing application compatible with Windows, Linux, Android, iOS, macOS X, Raspberry Pi, and BSD. It is developed in Golang and features a polished GUI powered by [Fyne](https://github.com/fyne-io/fyne). The application includes advanced features for secure HTTP web sharing.
 
